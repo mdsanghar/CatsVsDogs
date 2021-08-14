@@ -4,7 +4,11 @@ In this repository you will find all the necessary files to create your own dogs
     flask run
 
 Tools used
-python
-html/css for webpage(front-end)
-tensoflow(tf) to train model
-FlaskApp 
+
+-python
+
+-html/css for webpage(front-end)
+
+-tensoflow(tf) to train model
+
+-FlaskApp 
